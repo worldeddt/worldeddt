@@ -10,8 +10,7 @@
 
 # He's tory
 ------------------
-
-teamo2 2018.12 ~
+- [TeamO2](http://teamo2.kr/) — Web Developer : 2018.12 ~ Current
 
 <!--
 **worldeddt/worldeddt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
