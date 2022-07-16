@@ -13,10 +13,9 @@
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![javascript](https://camo.githubusercontent.com/ecedb0571f9b8bfbc3cfa73f1c932dddffe3c4a5002b807c2fc6e7ce284fcd98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465)
 ![java](https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
-![Git](https://img.shields.io/badge/<badge>-%23<orange>.svg?style=for-the-badge&logo=<badge>&logoColor=<logo-color>)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<!-- (https://camo.githubusercontent.com/3d69b90fc54f2f7023766e56abd25d0316d98e4a28d64a1aa5d5a73fd6d78c1d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d6630353033323f7374796c653d666c6174266c6f676f3d476974266c6f676f436f6c6f723d7768697465)
- -->
+
 # He's tory
 - [TeamO2](http://teamo2.kr/) — Web Developer : 2018.12 ~ Current
 
