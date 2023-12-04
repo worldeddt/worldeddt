@@ -18,6 +18,7 @@
 
 # He's tory
 - [TeamO2](http://teamo2.kr/) — Web Developer : 2018.12 ~ 2023.11
+- [FERMI] - 2023.11 ~
 
 # Github analytics
 [![eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=worldeddt)](https://github.com/worldeddt/github-readme-stats)
