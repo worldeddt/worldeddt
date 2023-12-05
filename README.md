@@ -1,8 +1,11 @@
 
 # 😄 Welcome, this is worldeddt's world
+-  지극히 평범한 개발자
+  좋은 개발자는 어떤 개발자인가 끊임 없이 생각하고 있습니다.
+  어쩌면 좋은 개발자란 개발에 흥미를 가지고 지식을 긁어내며 흥미로운 결과를 만들어 내는 개발자가 아닐까 생각하고 있답니다.
+  노력형 개발자의 성장기를 여기 레파지토리에 담아 보려 합니다.
 -  읽기 쉽지만 흥미로운 코드 제작을 지향합니다.(We aim for easy-to-read but interesting code production)
--  🌱 Current Interest : Spring Framework, Vue
--  노력형 개발자
+-  🌱 Current Interest : Spring Framework, Vue, React, Thread
 
 # 🛠 Skils 
 
