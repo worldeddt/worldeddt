@@ -23,7 +23,7 @@
 - [TeamO2](http://teamo2.kr/) — Web Developer : 2018.12 ~ 2023.11
 
   🔭 I’m currently working on ...
-- [FERMI] - Backend engineer 2023.11 ~
+- [FERMI](https://fermi.co.kr/) - Backend engineer 2023.11 ~
 
 # Github analytics
 [![eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=worldeddt)](https://github.com/worldeddt/github-readme-stats)
