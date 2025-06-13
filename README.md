@@ -22,8 +22,6 @@
 # He's tory
 - [TeamO2](http://teamo2.kr/) — Web Developer : 2018.12 ~ 2023.11
 - [FERMI](https://fermi.co.kr/) - Backend engineer 2023.11 ~ 2025.03
-
-  🔭 I’m currently working on ...
 - [Metsakuur](https://metsakuur.com/) - Web engineer 2025.04 ~
 
 # Github analytics
